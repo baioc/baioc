@@ -10,7 +10,7 @@
 </a>
 
 - 🔭 I'm currently working on the [Simulation and Formal Verification of Self-stabilizing Algorithms](https://ensiwiki.ensimag.fr/index.php?title=IRL_-_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms)
-- 🔭 I'm also developing a small [32-bit Operating System from scratch](https://ensiwiki.ensimag.fr/index.php?title=Projet_système)
+- 🔭 I'm also developing a small [32-bit (x86) Operating System from scratch](https://ensiwiki.ensimag.fr/index.php?title=Projet_système_PC_:_2021_-_MARTIN_Maxime,_B.SANT%27ANNA_Gabriel,_CANTORI_Thibault,_RAVENEL_Pierre,_BRIANCON_Antoine)
 - 🌱 I'm currently learning about [Networks and Cybersecurity](https://www.youracclaim.com/badges/5ba4072c-a443-44d9-9fda-cdea90ae3144)
 - 🌱 On my free time, I'm studying **PLT and Type Theory**
 - 🌱 I'm also beginning to look into **Web Development**
