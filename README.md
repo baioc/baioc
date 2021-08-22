@@ -38,7 +38,7 @@
   <a href="https://gitlab.com/baioc/paradigms/-/tree/master/Scheme">
     <img alt="Scheme" src="https://img.shields.io/badge/Scheme-47A141?style=for-the-badge&logo=lydia&logoColor=white">
   </a>
-  <a href="https://test.pypi.org/project/pygraph/">
+  <a href="https://test.pypi.org/project/pygraphs/">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a href="https://gitlab.com/baioc/vtm">
