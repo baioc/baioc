@@ -35,7 +35,7 @@
   <a href="https://gitlab.com/baioc/UGLy">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a>
-  <a href="https://gitlab.com/baioc/paradigms/-/tree/master/Scheme">
+  <a href="https://baioc.github.io/scheme">
     <img alt="Scheme" src="https://img.shields.io/badge/Scheme-47A141?style=for-the-badge&logo=lydia&logoColor=white">
   </a>
   <a href="https://test.pypi.org/project/pygraphs/">
@@ -50,13 +50,13 @@
   <a href="https://baioc.github.io/hxdsp">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a href="https://github.com/facebookincubator/antlir">
+  <a href="https://github.com/facebookincubator/antlir/tree/main/tools/testinfra/runner">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   </a>
   <a href="https://github.com/baioc/re-multif">
     <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white">
   </a>
-  <a href="https://gitlab.com/baioc/paradigms/-/tree/master/SQL">
+  <a href="https://gitlab.com/baioc/paradigms/-/blob/master/SQL/space.sql">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
   <a href="#!">
