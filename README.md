@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel B. Sant'Anna</h1>
-<h3 align="center">Computer Scientist | Software Engineer | Electronics Technician | MLH Fellow Hacker</h3>
+<h3 align="center">Computer Scientist | Software Engineer | Electronics Technician</h3>
 
 <p align="center">
   <a href="https://baioc.github.io/portfolio/">
@@ -25,7 +25,8 @@
 
 - 🔭 In my free time, I'm studying [Programming Language Theory](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php) and a bit of [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🌱 I'm also getting started with [Web Development](http://www.formallysharp.codes)
-- 🏛️ Previous research topics include:
+- 🏛️ Previous research topics and professional experiences include:
+  - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH Fellowship](https://fellowship.mlh.io/))
   - 📹 [Video Coding Algorithms](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL](https://eclab.paginas.ufsc.br/))
   - 🌀 [Formal Verification of Self-stabilizing Algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
 - 📔 You can check out [some of my projects](https://baioc.github.io/portfolio/) and [find out more about my experience](https://baioc.github.io/cv/)
