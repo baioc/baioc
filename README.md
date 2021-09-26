@@ -29,7 +29,7 @@
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH Fellowship](https://fellowship.mlh.io/))
   - 📹 [Video Coding Algorithms](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL](https://eclab.paginas.ufsc.br/))
   - 🌀 [Formal Verification of Self-stabilizing Algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
-- 📔 You can check out [some of my projects](https://baioc.github.io/portfolio/) and [find out more about my experience](https://baioc.github.io/cv/)
+- 📔 You can check out [my portfolio](https://baioc.github.io/portfolio/) and/or [my CV](https://baioc.github.io/cv/)
 - 📫 How to reach me: [connect with me on LinkedIn](https://linkedin.com/in/baioc) or [send me a DM](https://baioc.github.io/contact/)
 
 <p align="center">
@@ -39,13 +39,13 @@
   <a href="https://baioc.github.io/scheme">
     <img alt="Scheme" src="https://img.shields.io/badge/Scheme-47A141?style=for-the-badge&logo=lydia&logoColor=white">
   </a>
-  <a href="https://test.pypi.org/project/pygraphs/">
+  <a href="https://baioc.github.io/portfolio/pycg">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a href="https://gitlab.com/baioc/vtm">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
-  <a href="http://www.formallysharp.codes">
+  <a href="https://github.com/baioc/FormallySharp">
     <img alt="F#" src="https://img.shields.io/badge/F%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
   <a href="https://baioc.github.io/hxdsp">
