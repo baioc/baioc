@@ -24,7 +24,7 @@
 </p>
 
 - 🔭 In my free time, I'm studying [Programming Language Theory](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php) and a bit of [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
-- 🌱 I'm also getting started with [Web Development](http://www.formallysharp.codes)
+- 🌱 I'm also getting started with [Web Development](https://formallysharp.azurewebsites.net/)
 - 🏛️ Previous research topics and professional experiences include:
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH Fellowship](https://fellowship.mlh.io/))
   - 📹 [Video Coding Algorithms](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL](https://eclab.paginas.ufsc.br/))
