@@ -68,8 +68,8 @@
 <p align="center">
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma_CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma_CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
