@@ -23,10 +23,10 @@
   </a>
 </p>
 
-- 🔭 I like studying [Programming Languages](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php)
+- 🔭 I like studying [Programming Languages](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php) and their [implementation](https://github.com/baioc/clox)
 - 🌱 I'm also getting started with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
-  - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) and [Facebook](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
+  - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) and [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
   - 📹 [Video Coding Algorithms](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL](https://eclab.paginas.ufsc.br/))
   - 🕸️ [Formal Verification of Self-stabilizing Algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
 - 📔 Feel free to check out [my portfolio](https://baioc.github.io/portfolio/) and [my resume](https://baioc.github.io/cv/)
@@ -51,11 +51,11 @@
   <a href="https://baioc.github.io/hxdsp">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  <a href="https://github.com/facebookincubator/antlir/tree/main/tools/testinfra/runner">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
-  </a>
   <a href="https://github.com/baioc/re-multif">
     <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white">
+  </a>
+  <a href="https://github.com/facebookincubator/antlir/tree/main/tools/testinfra/runner">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   </a>
   <a href="https://gitlab.com/baioc/paradigms/-/blob/master/SQL/space.sql">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
