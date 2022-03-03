@@ -57,7 +57,7 @@
   <a href="https://github.com/facebookincubator/antlir/tree/main/tools/testinfra/runner">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   </a>
-  <a href="https://gitlab.com/baioc/paradigms/-/blob/master/SQL/space.sql">
+  <a href="https://github.com/baioc/paradigms/tree/master/SQL">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
   <a href="#!">
