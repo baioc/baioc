@@ -39,14 +39,14 @@
   <a href="https://baioc.github.io/scheme">
     <img alt="Scheme" src="https://img.shields.io/badge/Scheme-47A141?style=for-the-badge&logo=lydia&logoColor=white">
   </a>
+  <a href="https://github.com/baioc/FormallySharp">
+    <img alt="F#" src="https://img.shields.io/badge/F%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  </a>
   <a href="https://baioc.github.io/portfolio/pycg">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a href="https://gitlab.com/baioc/vtm">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-  <a href="https://github.com/baioc/FormallySharp">
-    <img alt="F#" src="https://img.shields.io/badge/F%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
   <a href="https://baioc.github.io/hxdsp">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
