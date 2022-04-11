@@ -26,10 +26,10 @@
 - 🔭 I like studying [Programming Languages](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php) and their [implementation](https://github.com/baioc/clox)
 - 🌱 I'm also getting started with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
-  - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) and [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
-  - 📹 [Video Coding Algorithms](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL](https://eclab.paginas.ufsc.br/))
-  - 🕸️ [Formal Verification of Self-stabilizing Algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
-- 📔 Feel free to check out [my portfolio](https://baioc.github.io/portfolio/) and [my resume](https://baioc.github.io/cv/)
+  - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) & [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
+  - 📹 [Video coding and compression](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL UFSC](https://eclab.paginas.ufsc.br/))
+  - 🕸️ [Formal verification of self-stabilizing algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
+- 📔 Feel free to check out my [portfolio](https://baioc.github.io/portfolio/) and [resume](https://baioc.github.io/cv/)
 - 📫 How to reach me: [connect with me on LinkedIn](https://linkedin.com/in/baioc) or [send me a DM](https://baioc.github.io/contact/)
 
 <p align="center">
