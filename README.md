@@ -63,9 +63,6 @@
   <a href="https://github.com/baioc/paradigms/tree/master/SQL">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
-  <a href="#!">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  </a>
 </p>
 
 <p align="center">
