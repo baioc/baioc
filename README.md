@@ -42,6 +42,9 @@
   <a href="https://github.com/baioc/FormallySharp">
     <img alt="F#" src="https://img.shields.io/badge/F%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   </a>
+  <a href="https://github.com/baioc/gyred/">
+    <img alt="D" src="https://img.shields.io/badge/D-B03931?style=for-the-badge&logoColor=white&logo=llvm">
+  </a>
   <a href="https://baioc.github.io/portfolio/pycg">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
