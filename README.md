@@ -73,3 +73,28 @@
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
+
+
+<hr>👇 Project Gallery 👇<hr/>
+
+<p align="center">
+  <a href="https://formallysharp.azurewebsites.net/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%"></a>
+  <a href="https://github.com/baioc/PyCG"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://scontent.ffln1-1.fna.fbcdn.net/v/t39.2365-6/267627474_340541934125955_7872032431221584372_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ad8a9d&_nc_eui2=AeEoXyc14kyeNv5fonSoMKjP2nNaFscdXUrac1oWxx1dSm_7G1DfqBTtiREv96djFQUjXXtURQ408W8Vfz0U2h8F&_nc_ohc=Z_od5ETdtX8AX_zUi0T&_nc_ht=scontent.ffln1-1.fna&oh=00_AT-pBsC-sadvpOJ10JqN6tJrrEf4q7kuxl58LxdugeG_SQ&oe=62C614F3" width="33%"></a>
+  <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="31%"></a>
+  <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%"></a>
+</p>
+
+<p align="center">
+  <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="50%"></a>
+  <a href="https://baioc.github.io/portfolio/s4pu/"><img alt="S4PU" src="https://gitlab.com/baioc/s4pu/uploads/2181eb27b434cfb3c86773e7f1e03615/S4PU-Datapath.png" width="48%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%"></a>
+  <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="32%"></a>
+  <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="32%"></a>
+</p>
