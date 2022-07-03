@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://baioc.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge">
   </a>
   <a href="https://baioc.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/Website-FF1B2D?style=for-the-badge">
   </a>
   <a href="https://github.com/baioc">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -23,13 +23,13 @@
   </a>
 </p>
 
-- 🔭 I like studying [Programming Languages](https://www.cs.uoregon.edu/research/summerschool/summer21/participants.php) and their [implementation](https://github.com/baioc/clox)
+- 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
 - 🌱 I'm also getting started with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) & [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
   - 📹 [Video coding and compression](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL UFSC](https://eclab.paginas.ufsc.br/))
   - 🕸️ [Formal verification of self-stabilizing algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
-- 📔 Feel free to check out my [portfolio](https://baioc.github.io/portfolio/) and [resume](https://baioc.github.io/cv/)
+- 📔 Feel free to check out my [résumé](https://baioc.github.io/cv/) and [portfolio](https://baioc.github.io/portfolio/) (see below for a preview)
 - 📫 How to reach me: [connect with me on LinkedIn](https://linkedin.com/in/baioc) or [send me a DM](https://baioc.github.io/contact/)
 
 <p align="center">
@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%"></a>
-  <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="32%"></a>
-  <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="32%"></a>
+  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="33%"></a>
+  <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="33%"></a>
+  <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="33%"></a>
 </p>
