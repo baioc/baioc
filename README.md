@@ -78,8 +78,8 @@
 <hr>👇 Project Gallery 👇<hr/>
 
 <p align="center">
-  <a href="https://formallysharp.azurewebsites.net/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%"></a>
-  <a href="https://github.com/baioc/PyCG"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
+  <a href="https://baioc.github.io/portfolio/formallysharp/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%"></a>
+  <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
 </p>
 
 <p align="center">
