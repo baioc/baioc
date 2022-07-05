@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="33%"></a>
-  <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="33%"></a>
-  <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="33%"></a>
+  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%"></a>
+  <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="32%"></a>
+  <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="32%"></a>
 </p>
