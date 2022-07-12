@@ -8,15 +8,6 @@
   <a href="https://baioc.github.io/">
     <img alt="Website" src="https://img.shields.io/badge/Website-FF1B2D?style=for-the-badge">
   </a>
-  <a href="https://github.com/baioc">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://gitlab.com/baioc">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/baioc">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/baioc">
     <img alt="profile views" src="https://komarev.com/ghpvc/?username=baioc&label=Profile%20views&color=0e75b6&style=flat">
@@ -65,34 +56,20 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma_CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
-
 <hr>👇 Project Gallery 👇<hr/>
-
 <p align="center">
   <a href="https://baioc.github.io/portfolio/formallysharp/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%"></a>
   <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://scontent.ffln1-1.fna.fbcdn.net/v/t39.2365-6/267627474_340541934125955_7872032431221584372_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ad8a9d&_nc_eui2=AeEoXyc14kyeNv5fonSoMKjP2nNaFscdXUrac1oWxx1dSm_7G1DfqBTtiREv96djFQUjXXtURQ408W8Vfz0U2h8F&_nc_ohc=Z_od5ETdtX8AX_zUi0T&_nc_ht=scontent.ffln1-1.fna&oh=00_AT-pBsC-sadvpOJ10JqN6tJrrEf4q7kuxl58LxdugeG_SQ&oe=62C614F3" width="33%"></a>
   <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="31%"></a>
   <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%"></a>
 </p>
-
 <p align="center">
   <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="50%"></a>
   <a href="https://baioc.github.io/portfolio/s4pu/"><img alt="S4PU" src="https://gitlab.com/baioc/s4pu/uploads/2181eb27b434cfb3c86773e7f1e03615/S4PU-Datapath.png" width="48%"></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%"></a>
   <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="32%"></a>
