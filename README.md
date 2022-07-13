@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://baioc.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://baioc.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-FF1B2D?style=for-the-badge">
+  <a href="https://linkedin.com/in/baioc">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/baioc">
