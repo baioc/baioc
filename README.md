@@ -62,7 +62,7 @@
   <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://scontent.ffln1-1.fna.fbcdn.net/v/t39.2365-6/267627474_340541934125955_7872032431221584372_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ad8a9d&_nc_eui2=AeEoXyc14kyeNv5fonSoMKjP2nNaFscdXUrac1oWxx1dSm_7G1DfqBTtiREv96djFQUjXXtURQ408W8Vfz0U2h8F&_nc_ohc=PQvihJnWgsEAX9t49IU&_nc_ht=scontent.ffln1-1.fna&oh=00_AT_i7csnp59rNuD3iAC1XGf-f4HZQyl5UrA8-iumvtGbfQ&oe=62D9DB73" width="33%"></a>
+  <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://user-images.githubusercontent.com/27034173/181121042-04cbc871-870f-4b77-8bca-890cb0d98a6d.png" width="33%"></a>
   <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="31%"></a>
   <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%"></a>
 </p>
