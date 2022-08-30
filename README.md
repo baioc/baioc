@@ -14,12 +14,12 @@
   </a>
 </p>
 
-- 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
-- 🌱 I have a bit of experience with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) & [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
   - 📹 [Video coding and compression](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL UFSC](https://eclab.paginas.ufsc.br/))
   - 🕸️ [Formal verification of self-stabilizing algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
+- 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
+- 🌱 I also know something about [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 📔 Feel free to check out my [résumé](https://baioc.github.io/cv/) and [portfolio](https://baioc.github.io/portfolio/) (see below for a preview)
 - 📫 How to reach me: [connect with me on LinkedIn](https://linkedin.com/in/baioc) or [send me a DM](https://baioc.github.io/contact/)
 
@@ -51,9 +51,16 @@
   <a href="https://github.com/facebookincubator/antlir/tree/main/tools/testinfra/runner">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   </a>
-  <a href="https://github.com/baioc/paradigms/tree/master/SQL">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
+</p>
+<p align="center">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/Fable.React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/Bulma%20CSS-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
+
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <hr>👇 Project Gallery 👇<hr/>
