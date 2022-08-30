@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
-- 🌱 I'm also getting started with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
+- 🌱 I have a bit of experience with [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) & [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
   - 📹 [Video coding and compression](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL UFSC](https://eclab.paginas.ufsc.br/))
