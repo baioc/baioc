@@ -14,12 +14,12 @@
   </a>
 </p>
 
+- 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
+- 🌱 I also know something about [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 🏛️ Previous research topics and professional experiences include:
   - 🦌 [Facebook's filesystem image builder](https://facebookincubator.github.io/antlir/) ([MLH](https://fellowship.mlh.io/) & [Facebook/Meta](https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/))
   - 📹 [Video coding and compression](https://doi.org/10.1109/ICASSP39728.2021.9414799) ([ECL UFSC](https://eclab.paginas.ufsc.br/))
   - 🕸️ [Formal verification of self-stabilizing algorithms](https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms) ([Verimag](https://www-verimag.univ-grenoble-alpes.fr/))
-- 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
-- 🌱 I also know something about [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
 - 📔 Feel free to check out my [résumé](https://baioc.github.io/cv/) and [portfolio](https://baioc.github.io/portfolio/) (see below for a preview)
 - 📫 How to reach me: [connect with me on LinkedIn](https://linkedin.com/in/baioc) or [send me a DM](https://baioc.github.io/contact/)
 
