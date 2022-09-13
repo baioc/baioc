@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gabriel B. Sant'Anna</h1>
-<h3 align="center">Computer Scientist | Software Engineer | Electronics Technician</h3>
+<h3 align="center">
+  Computer Scientist | Software Engineer at
+  <a href="https://www.bry.com.br/">
+    <img alt="BRy Tecnologia" src="https://www.bry.com.br/static/images/bry-tecnologia-logo-c89cd3f52e1257f84760502233ac76ed.svg">
+  </a>
+</h3>
 
 <p align="center">
   <a href="https://baioc.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F25900?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/baioc">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
