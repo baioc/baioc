@@ -69,18 +69,20 @@
 </p>
 
 <hr>👇 Project Gallery 👇<hr/>
+
+
 <p align="center">
   <a href="https://baioc.github.io/portfolio/formallysharp/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%"></a>
   <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%"></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://user-images.githubusercontent.com/27034173/181121042-04cbc871-870f-4b77-8bca-890cb0d98a6d.png" width="33%"></a>
   <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="31%"></a>
+  <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://user-images.githubusercontent.com/27034173/181121042-04cbc871-870f-4b77-8bca-890cb0d98a6d.png" width="33%"></a>
   <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%"></a>
 </p>
 <p align="center">
-  <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="50%"></a>
-  <a href="https://baioc.github.io/portfolio/s4pu/"><img alt="S4PU" src="https://gitlab.com/baioc/s4pu/uploads/2181eb27b434cfb3c86773e7f1e03615/S4PU-Datapath.png" width="48%"></a>
+  <a href="https://github.com/baioc/graf"><img alt="graf" src="https://user-images.githubusercontent.com/27034173/200157439-a43b3256-ea68-46b3-85f2-0902fdb3069e.gif" width="55%"></a>
+  <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="43%"></a>
 </p>
 <p align="center">
   <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%"></a>
