@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel B. Sant'Anna</h1>
 <h3 align="center">
   Computer Scientist | Software Engineer at
+  &nbsp;
   <a href="https://www.bry.com.br/">
     <img alt="BRy Tecnologia" src="https://www.bry.com.br/static/images/bry-tecnologia-logo-c89cd3f52e1257f84760502233ac76ed.svg">
   </a>
 </h3>
-
-<p align="center">
-  <a href="https://baioc.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F25900?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/baioc">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/baioc">
-    <img alt="profile views" src="https://komarev.com/ghpvc/?username=baioc&label=Profile%20views&color=0e75b6&style=flat">
-  </a>
-</p>
 
 - 🔭 I like studying [Programming](https://github.com/baioc/paradigms/) [Languages](https://github.com/baioc/clox) and how they're [implemented](https://github.com/baioc/gyred/)
 - 🌱 I also know something about [Web](https://formallysharp.azurewebsites.net/) [Development](https://baioc.github.io/dagger3d/) and [Cybersecurity](https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8)
