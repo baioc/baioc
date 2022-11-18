@@ -2,15 +2,15 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 &nbsp; I like studying <a href='https://github.com/baioc/paradigms'>Programming</a> <a href='https://github.com/baioc/clox'>Languages</a> and how they're <a href='https://github.com/baioc/gyred'>implemented</a></li>
-        <li>🌱 &nbsp; I also know something about <a href='https://formallysharp.azurewebsites.net/'>Web</a> <a href='https://baioc.github.io/dagger3d/'>Development</a> and <a href='https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8'>Cybersecurity</a></li>
+        <li>🔭 &nbsp; I like studying <a href='https://github.com/baioc/clox'>Programming Languages</a></li>
+        <li>🌱 &nbsp; I also know something about <a href='https://formallysharp.azurewebsites.net/'>Web</a> <a href='https://baioc.github.io/dagger3d/'>Dev</a> and <a href='https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8'>Cybersecurity</a></li>
         <li>🏛️ &nbsp; Previous research topics and professional experiences include:</li>
           <ul>
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> (<a href='https://fellowship.mlh.io/'>MLH</a> & <a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Facebook/Meta</a>)</li>
             <li>📹 &nbsp; <a href='https://doi.org/10.1109/ICASSP39728.2021.9414799'>Video coding and compression</a> (<a href='https://eclab.paginas.ufsc.br/'>ECL UFSC</a>)</li>
             <li>🕸️ &nbsp; <a href='https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms'>Formal verification of self-stabilizing algorithms</a> (<a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a>)</li>
           </ul>
-        <li>📔 &nbsp; Feel free to check out my <a href='https://baioc.github.io/cv/'>résumé</a> and <a href='https://baioc.github.io/portfolio/'>portfolio</a> (see below for a preview)</li>
+        <li>📔 &nbsp; Feel free to check out my <a href='https://baioc.github.io/cv/'>résumé</a> and <a href='https://baioc.github.io/portfolio/'>portfolio</a></li>
         <li>📫 &nbsp; How to reach me: <a href='https://linkedin.com/in/baioc'>connect with me on LinkedIn</a></li>
       </ul>
     </td>
