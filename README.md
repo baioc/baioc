@@ -9,7 +9,7 @@
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
             <li>📹 &nbsp; <a href='https://doi.org/10.1109/ICASSP39728.2021.9414799'>Video coding and compression</a> @ <a href='https://eclab.paginas.ufsc.br/'>ECL UFSC</a></li>
             <li>🕸️ &nbsp; <a href='https://ensiwiki.ensimag.fr/index.php?title=Baiocchi_de_Sant’Anna_Gabriel_:_Simulation_and_Formal_Verification_of_Self-stabilizing_Algorithms'>Verifying self-stabilizing algorithms</a> @ <a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a></li>
-            <li>🧬 &nbsp; <a href='https://github.com/baioc/re-multif'>Replicable science in the Biocomputing domain</a></li>
+            <li>🧬 &nbsp; <a href='https://zenodo.org/record/6801765'>Replicable science in the Biocomputing domain</a></li>
           </ul>
         <li>📔 &nbsp; Feel free to check out my <a href='https://baioc.github.io/cv/'>résumé</a> and <a href='https://baioc.github.io/portfolio/'>portfolio</a></li>
         <li>📫 &nbsp; Want to reach me? Send me a message on <a href='https://linkedin.com/in/baioc'>LinkedIn</a></li>
