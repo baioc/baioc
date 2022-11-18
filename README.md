@@ -3,7 +3,7 @@
     <td>
       <ul>
         <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a></li>
-        <li>🌱 &nbsp; I also know something about <a href='https://formallysharp.azurewebsites.net/'>Web</a> <a href='https://baioc.github.io/dagger3d/'>Dev</a> and <a href='https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8'>Cybersecurity</a></li>
+        <li>🌱 &nbsp; I also know something about <a href='https://github.com/baioc/FormallySharp'>Web</a> <a href='https://baioc.github.io/dagger3d/'>Dev</a> and <a href='https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8'>Cybersecurity</a></li>
         <li>🏛️ &nbsp; Previous research and work experiences include:</li>
           <ul>
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
@@ -24,7 +24,7 @@
 <hr>👇 Project Gallery 👇<hr/>
 
 <p align="center">
-  <a href="https://baioc.github.io/portfolio/formallysharp/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%" /></a>
+  <a href="https://github.com/baioc/FormallySharp"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="55%" /></a>
   <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="43%" /></a>
 </p>
 <p align="center">
@@ -37,7 +37,7 @@
   <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="43%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/baioc/gyred/"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%" /></a>
+  <a href="https://github.com/baioc/gyred"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="32%" /></a>
   <a href="https://baioc.gitlab.io/UGLy/files"><img alt="UGLy-doxygen" src="https://gitlab.com/baioc/s4pu/uploads/4b788ca911b98ca5f31aa2ffe7f82a10/UGLy-doxygen.png" width="32%" /></a>
   <a href="https://baioc.github.io/hxdsp/dsp/FFT.html"><img alt="hxdsp-FFT" src="https://gitlab.com/baioc/s4pu/uploads/41a030cf13ed36ac9861c4f6681b0b2b/hxdsp-FFT.png" width="32%" /></a>
 </p>
