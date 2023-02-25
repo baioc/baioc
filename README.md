@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=8&exclude_repo=S4PU,fibonacci,crowd-sourced&hide=Makefile,HTML,Coq&layout=compact&theme=transparent" />
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=8&exclude_repo=S4PU,fibonacci,crowd-sourced&hide=Makefile,HTML,Coq&layout=compact&theme=transparent" style="height: 100%;" />
     </td>
   </tr>
 </table>
@@ -24,20 +24,20 @@
 <hr/>
 
 <p align="center">
-  <a href="https://github.com/baioc/FormallySharp"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="52%" /></a>
-  <a href="https://github.com/baioc/dagger3d"><img alt="dagger3d" src="https://user-images.githubusercontent.com/27034173/139572752-a9e844c9-9baf-4426-be5f-440d241d1055.gif" width="46%" /></a>
+  <a href="https://formallysharp.azurewebsites.net/"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="52%" /></a>
+  <a href="https://baioc.github.io/dagger3d/"><img alt="dagger3d" src="https://user-images.githubusercontent.com/27034173/139572752-a9e844c9-9baf-4426-be5f-440d241d1055.gif" width="46%" /></a>
 </p>
 <p align="center">
   <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="31%" /></a>
   <a href="https://www.linkedin.com/posts/baioc_what-was-the-biggest-thing-gabriel-b-santanna-activity-6892218612808318976-ErCz/"><img alt="antlir" src="https://user-images.githubusercontent.com/27034173/181121042-04cbc871-870f-4b77-8bca-890cb0d98a6d.png" width="33%" /></a>
-  <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="34%" /></a>
+  <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/baioc/graf"><img alt="graf" src="https://user-images.githubusercontent.com/27034173/200157439-a43b3256-ea68-46b3-85f2-0902fdb3069e.gif" width="55%" /></a>
   <a href="https://baioc.github.io/portfolio/plzoo/"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="43%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/baioc/gyred"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="35%" /></a>
+  <a href="https://github.com/baioc/gyred"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="34%" /></a>
   <a href="https://baioc.github.io/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="28%" /></a>
   <a href="https://padnt.azurewebsites.net/"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="35%" /></a>
 </p>
