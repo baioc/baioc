@@ -37,7 +37,6 @@
   <a href="https://baioc.github.io/portfolio/plzoo"><img alt="BASIC" src="https://baioc.github.io/assets/images/basic.png" width="43%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/baioc/gyred"><img alt="GyreD-arddox" src="https://gitlab.com/baioc/s4pu/uploads/c0d0dd662464776ca553b7100554cae5/GyreD-arddox.png" width="34%" /></a>
-  <a href="https://baioc.github.io/portfolio/pycg"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="28%" /></a>
-  <a href="https://github.com/baioc/padnt"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="35%" /></a>
-</p>
+  <a href="https://github.com/baioc/padnt"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="33%" /></a>
+  <a href="https://baioc.github.io/portfolio/pycg"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="26%" /></a>
+  <a href="https://baioc.github.io/benchmark/d-sets-perf"><img alt="eris.btree" src="https://baioc.github.io/assets/images/eris/sets-upsert-int.png" width="38%" /></a></p>
