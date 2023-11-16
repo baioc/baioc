@@ -2,8 +2,8 @@
   <tr>
     <td>
       <ul>
-        <li>🔧 &nbsp; <b>Data-driven</b> Computer Scientist focused on <b>efficiency</b> and <b>security</b></li>
-        <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a>, <a href='https://github.com/baioc/gyred'>Compilers</a> and <a href='https://www.credly.com/earner/earned/badge/9a7926c6-2074-4b88-989a-8d538aa473bc'>Cybersecurity</a></li>
+        <li>🔧 &nbsp; <b>Data-driven</b> Computer Scientist and <a href='https://www.credly.com/earner/earned/badge/9a7926c6-2074-4b88-989a-8d538aa473bc'>Cybersec. enthusiast</a></li>
+        <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a> and <a href='https://github.com/baioc/gyred'>Compilers</a></li>
         <li>🏛️ &nbsp; Previous research and work experiences include:
           <ul>
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
