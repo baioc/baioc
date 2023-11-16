@@ -2,21 +2,23 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a> and <a href='https://github.com/baioc/gyred'>Compilers</a></li>
-        <li>🌱 &nbsp; I also know something about <a href='https://github.com/baioc/padnt'>Web</a> <a href='https://github.com/baioc/FormallySharp'>Dev</a> and <a href='https://www.credly.com/badges/9330bc8e-972d-446e-80c7-499199d343f8'>Cybersecurity</a></li>
-        <li>🏛️ &nbsp; Previous research and work experiences include:</li>
+        <li>🔧 &nbsp; <b>Data-driven</b> Computer Scientist focused on <b>efficiency</b> and <b>security</b></li>
+        <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a>, <a href='https://github.com/baioc/gyred'>Compilers</a> and <a href='https://www.credly.com/earner/earned/badge/9a7926c6-2074-4b88-989a-8d538aa473bc'>Cybersecurity</a></li>
+        <li>🏛️ &nbsp; Previous research and work experiences include:
           <ul>
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
             <li>📹 &nbsp; <a href='https://doi.org/10.1109/ICASSP39728.2021.9414799'>Video coding and compression</a> @ <a href='https://eclab.paginas.ufsc.br/'>ECL UFSC</a></li>
             <li>🕸️ &nbsp; <a href='https://doi.org/10.1007/978-3-031-44274-2_2'>Verifying self-stabilizing algorithms</a> @ <a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a></li>
             <li>🧬 &nbsp; <a href='https://zenodo.org/record/6801765'>Replicable science in the Biocomputing domain</a></li>
           </ul>
+        </li>
+        <li>🌱 &nbsp; Sometimes, I do some <a href='https://github.com/baioc/padnt'>Web</a> and <a href='https://baioc.github.io/portfolio/gamedev/'>Game</a> <a href='https://github.com/baioc/FormallySharp'>Dev</a> in my free time</li>
         <li>📔 &nbsp; Feel free to check out my <a href='https://baioc.github.io/cv/'>résumé</a> and <a href='https://baioc.github.io/portfolio/'>portfolio</a></li>
-        <li>📫 &nbsp; Want to reach me? Send me a message on <a href='https://linkedin.com/in/baioc'>LinkedIn</a></li>
+        <li>📫 &nbsp; Want to reach me? Message me on <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a></li>
       </ul>
     </td>
     <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=8&exclude_repo=S4PU,fibonacci,crowd-sourced&hide=Makefile,HTML,Coq&layout=compact&theme=transparent" style="height: 100%;" />
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=10&exclude_repo=S4PU,fibonacci,crowd-sourced,baioc.github.io&hide=Makefile,Coq,HTML,CSS&layout=compact&theme=transparent" style="height: 100%;" />
     </td>
   </tr>
 </table>
