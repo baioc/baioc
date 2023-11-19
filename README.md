@@ -4,11 +4,11 @@
       <ul>
         <li>🔧 &nbsp; <b>Data-driven</b> Computer Scientist and <a href='https://www.credly.com/earner/earned/badge/9a7926c6-2074-4b88-989a-8d538aa473bc'>Cybersec. enthusiast</a></li>
         <li>🔭 &nbsp; I like studying <a href='https://baioc.github.io/portfolio/plzoo/'>Programming Languages</a> and <a href='https://github.com/baioc/gyred'>Compilers</a></li>
-        <li>🏛️ &nbsp; Previous research and work experiences include:
+        <li>🏛️  &nbsp; Previous research and work experiences include:
           <ul>
             <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
             <li>📹 &nbsp; <a href='https://doi.org/10.1109/ICASSP39728.2021.9414799'>Video coding and compression</a> @ <a href='https://eclab.paginas.ufsc.br/'>ECL UFSC</a></li>
-            <li>🕸️ &nbsp; <a href='https://doi.org/10.1007/978-3-031-44274-2_2'>Verifying self-stabilizing algorithms</a> @ <a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a></li>
+            <li>🕸️  &nbsp; <a href='https://doi.org/10.1007/978-3-031-44274-2_2'>Verifying self-stabilizing algorithms</a> @ <a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a></li>
             <li>🧬 &nbsp; <a href='https://zenodo.org/record/6801765'>Replicable science in the Biocomputing domain</a></li>
           </ul>
         </li>
