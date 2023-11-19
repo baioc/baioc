@@ -14,7 +14,7 @@
         </li>
         <li>🌱 &nbsp; Sometimes, I do some <a href='https://github.com/baioc/padnt'>Web</a> and <a href='https://baioc.github.io/portfolio/gamedev/'>Game</a> <a href='https://github.com/baioc/FormallySharp'>Dev</a> in my free time</li>
         <li>📔 &nbsp; Feel free to check out my <a href='https://baioc.github.io/cv/'>résumé</a> and <a href='https://baioc.github.io/portfolio/'>portfolio</a></li>
-        <li>📫 &nbsp; Want to reach me? Message me on <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a></li>
+        <li>📫 &nbsp; Want to reach me? Message me* on <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a></li>
       </ul>
     </td>
     <td>
@@ -22,6 +22,19 @@
     </td>
   </tr>
 </table>
+
+<hr/>
+
+<p>
+  * For security-sensitive communications, please encrypt your messages with my public PGP key.
+  <br/>
+  Its fingerprint is <code>CBC54EF64ADF0F590095B06ABD4C56811EC6922D</code>, and it should be available at:
+  <ul>
+    <li><a href='https://baioc.dev/pubkey.asc'>My own website</a> (download link)</li>
+    <li><a href='https://github.com/baioc.gpg'>GitHub</a> (can be viewed in a browser)</li>
+    <li><a href='https://keys.openpgp.org/search?q=CBC54EF64ADF0F590095B06ABD4C56811EC6922D'>keys.openpgp.org</a> (search for fingerprint)</li>
+  </ul>
+</p>
 
 <hr/>
 
