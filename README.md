@@ -4,24 +4,25 @@
   <tr>
     <td>
       <ul>
-        <li>💻 &nbsp; I'm a Software Engineer with a Computer Science degree.</li>
-        <li>🔧 &nbsp; My main skills are systems programming and tool development.</li>
-        <li>🏛️ &nbsp; I also have some work and research experience with:
+        <li>💻 &nbsp; I'm a Software Engineer, with a Computer Science degree.</li>
+        <li>🔧 &nbsp; I'm most skilled in systems programming and tool development.</li>
+        <li>🏛️ &nbsp; My work and research experiences include:
           <ul>
             <li>🐧 &nbsp; FOSS development and maintenance</li>
             <li>⏳ &nbsp; Digital signature timestamping in PKI</li>
-            <li>🛠 &nbsp; Build and test infrastructure</li>
+            <li>🛠 &nbsp; Advanced build and testing infrastructure</li>
             <li>🕸️ &nbsp; Formal verification of distributed algorithms</li>
             <li>🧬 &nbsp; Simulation of biological computing circuits</li>
             <li>📹 &nbsp; Video compression standards</li>
+            <li>🪫 &nbsp; High-voltage electronic converters</li>
           </ul>
         </li>
-        <li>🔭 &nbsp; I also like cybersecurity, compilers and photography.</li>
-        <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>dev portfolio</a></li>
+        <li>🔭 &nbsp; I also like Cybersecurity, Compilers and Photography.</li>
+        <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>dev portfolio</a>.</li>
         <li>
-          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter.</a>
+          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a>.
           <ul>
-            <li>Or, if I've given you an email address, prefer that option.</li>
+            <li>Or, if I've given you an email address, I prefer that option.</li>
           </ul>
         </li>
       </ul>
