@@ -1,20 +1,29 @@
+<h3 align="center">Hello, World! 👋</h3>
+
 <table align="center">
   <tr>
     <td>
       <ul>
-        <li>🔧 &nbsp; <b>Data-driven</b> Computer Scientist and <a href='https://www.credly.com/earner/earned/badge/9a7926c6-2074-4b88-989a-8d538aa473bc'>Cybersec. enthusiast</a></li>
-        <li>🔭 &nbsp; I like studying <a href='https://www.baioc.dev/portfolio/plzoo/'>Programming Languages</a> and <a href='https://github.com/baioc/gyred'>Compilers</a></li>
-        <li>🏛️ &nbsp; Previous research and work experiences include:
+        <li>💻 &nbsp; I'm a Software Engineer with a Computer Science degree.</li>
+        <li>🔧 &nbsp; My main skills are systems programming and tool development.</li>
+        <li>🏛️ &nbsp; I also have some work and research experience with:
           <ul>
-            <li>🦌 &nbsp; <a href='https://facebookincubator.github.io/antlir/'>Facebook's filesystem image builder</a> @ <a href='https://fellowship.mlh.io/'>MLH</a>+<a href='https://developers.facebook.com/blog/post/2021/12/21/antlir-contributor-story-gabriel-baiocchi-des-ant-anna/'>Meta</a></li>
-            <li>📹 &nbsp; <a href='https://doi.org/10.1109/ICASSP39728.2021.9414799'>Video coding and compression</a> @ <a href='https://eclab.paginas.ufsc.br/'>ECL UFSC</a></li>
-            <li>🕸️ &nbsp; <a href='https://doi.org/10.1007/978-3-031-44274-2_2'>Verifying self-stabilizing algorithms</a> @ <a href='https://www-verimag.univ-grenoble-alpes.fr/'>Verimag</a></li>
-            <li>🧬 &nbsp; <a href='https://zenodo.org/record/6801765'>Replicable science in the Biocomputing domain</a></li>
+            <li>🐧 &nbsp; FOSS development and maintenance</li>
+            <li>⏳ &nbsp; Digital signature timestamping in PKI</li>
+            <li>🛠 &nbsp; Build and test infrastructure</li>
+            <li>🕸️ &nbsp; Formal verification of distributed algorithms</li>
+            <li>🧬 &nbsp; Simulation of biological computing circuits</li>
+            <li>📹 &nbsp; Video compression standards</li>
           </ul>
         </li>
-        <li>🌱 &nbsp; Sometimes, I do some <a href='https://github.com/baioc/padnt'>Web</a> and <a href='https://www.baioc.dev/portfolio/gamedev/'>Game</a> <a href='https://github.com/baioc/FormallySharp'>Dev</a> in my free time</li>
-        <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a></li>
-        <li>📫 &nbsp; Want to reach me? Message me* on <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a></li>
+        <li>🔭 &nbsp; I also like cybersecurity, compilers and photography.</li>
+        <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>dev portfolio</a></li>
+        <li>
+          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter.</a>
+          <ul>
+            <li>Or, if I've given you an email address, prefer that option.</li>
+          </ul>
+        </li>
       </ul>
     </td>
     <td>
@@ -54,4 +63,5 @@
 <p align="center">
   <a href="https://github.com/baioc/padnt"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="33%" /></a>
   <a href="https://www.baioc.dev/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="26%" /></a>
-  <a href="https://www.baioc.dev/experiment/d-sets-btree/"><img alt="eris.btree" src="https://www.baioc.dev/assets/images/eris/sets-upsert-int.png" width="38%" /></a></p>
+  <a href="https://www.baioc.dev/experiment/d-sets-btree/"><img alt="eris.btree" src="https://www.baioc.dev/assets/images/eris/sets-upsert-int.png" width="38%" /></a>
+</p>
