@@ -17,7 +17,7 @@
             <li>🪫 &nbsp; High-voltage electronic converters</li>
           </ul>
         </li>
-        <li>🔭 &nbsp; I also like Cybersecurity, Compilers and Photography.</li>
+        <li>🔭 &nbsp; I also like Cybersecurity and Compilers.</li>
         <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>dev portfolio</a>.</li>
         <li>
           📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a>.
