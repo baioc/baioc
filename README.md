@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=10&exclude_repo=S4PU,fibonacci,crowd-sourced,baioc.github.io&hide=Makefile,Coq,HTML,CSS&layout=compact&theme=transparent" style="height: 100%;" />
+      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baioc&langs_count=10&exclude_repo=S4PU,crowd-sourced,baioc.github.io&hide=HTML&layout=compact&theme=transparent" style="height: 100%;" />
     </td>
   </tr>
 </table>
