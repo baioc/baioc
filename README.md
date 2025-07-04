@@ -51,16 +51,16 @@
   <a href="https://www.baioc.dev/portfolio/plzoo/"><img alt="BASIC" src="https://www.baioc.dev/assets/images/basic.png" width="43%" /></a>
 </p>
 <p align="center">
-  <a href="https://doi.org/10.1016/j.tcs.2025.115292"><img alt="salut" src="https://github.com/user-attachments/assets/80922007-3897-4ca5-8c3b-86d1ad278396" width="35%" /></a>
-  <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="30%" /></a>
-  <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="33%" /></a>
+  <a href="https://doi.org/10.1016/j.tcs.2025.115292"><img alt="salut" src="https://github.com/user-attachments/assets/80922007-3897-4ca5-8c3b-86d1ad278396" width="34%" /></a>
+  <a href="https://doi.org/10.1109/ICASSP39728.2021.9414799"><img alt="rcme-ICASSP2021-poster" src="https://gitlab.com/baioc/vtm/uploads/3e20678ca1fe0a4274d5c9b4ab5d2af1/ICASSP2021-poster.png" width="29%" /></a>
+  <a href="https://github.com/baioc/re-multif"><img alt="re-multif" src="https://raw.githubusercontent.com/baioc/re-multif/master/sbol.png" width="32%" /></a>
 </p>
 <p align="center">
   <a href="https://www.baioc.dev/portfolio/pycg/"><img alt="PyCG" src="https://user-images.githubusercontent.com/27034173/131598578-02114b0e-6d33-455b-823b-3dfd36b59479.png" width="46%" /></a>
   <a href="https://www.baioc.dev/dagger3d/"><img alt="dagger3d" src="https://user-images.githubusercontent.com/27034173/139572752-a9e844c9-9baf-4426-be5f-440d241d1055.gif" width="52%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/baioc/FormallySharp"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="32%" /></a>
-  <a href="https://www.baioc.dev/experiment/d-sets-btree/"><img alt="eris.btree" src="https://www.baioc.dev/assets/images/eris/sets-upsert-int.png" width="35%" /></a>
-  <a href="https://github.com/baioc/padnt"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="31%" /></a>
+  <a href="https://github.com/baioc/FormallySharp"><img alt="FormallyShrp" src="https://user-images.githubusercontent.com/27034173/133954409-d50c6a9b-7f58-48c5-a507-dcabaeba5b95.png" width="31%" /></a>
+  <a href="https://www.baioc.dev/experiment/d-sets-btree/"><img alt="eris.btree" src="https://www.baioc.dev/assets/images/eris/sets-upsert-int.png" width="34%" /></a>
+  <a href="https://github.com/baioc/padnt"><img alt="Padn't" src="https://user-images.githubusercontent.com/27034173/221325954-b8131c34-6171-4fcd-ba20-73404346bc6a.png" width="30%" /></a>
 </p>
