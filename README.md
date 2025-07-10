@@ -18,10 +18,7 @@
         <li>🔭 &nbsp; I also like Cybersecurity and Compilers.</li>
         <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a>.</li>
         <li>
-          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or <a href='https://twitter.com/__baioc'>Twitter</a>.
-          <ul>
-            <li>Or, if I've given you an email address, I prefer that option.</li>
-          </ul>
+          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email (preferred).
         </li>
       </ul>
     </td>
