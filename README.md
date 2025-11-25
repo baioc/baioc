@@ -15,7 +15,7 @@
             <li>📹 &nbsp; Video compression algorithm optimization</li>
           </ul>
         </li>
-        <li>I also like Cybersecurity and Compilers</li>
+        <li>I also like studying Cybersecurity and Compilers</li>
         <li>Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a></li>
         <li>
           Want to reach me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email (preferred) *
