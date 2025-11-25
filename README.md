@@ -4,11 +4,11 @@
   <tr>
     <td>
       <ul>
-        <li>I'm a Software Engineer / Computer Scientist</li>
+        <li>I'm a Software Engineer, FOSS Contributor & Comp. Scientist</li>
         <li>Most skilled in systems programming and tool development</li>
         <li>My work and research experiences include:
           <ul>
-            <li>🐧 &nbsp; FOSS development and maintenance</li>
+            <li>🐧 &nbsp; Ubuntu / Debian packaging & maintenance</li>
             <li>⏳ &nbsp; Digital signature timestamping for PKI</li>
             <li>🕸️ &nbsp; Formal verification of distributed algorithms</li>
             <li>🧬 &nbsp; Simulation of biological computing circuits</li>
