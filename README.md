@@ -4,9 +4,9 @@
   <tr>
     <td>
       <ul>
-        <li>💻 &nbsp; I'm a Software Engineer / Computer Scientist.</li>
-        <li>🔧 &nbsp; I'm most skilled in systems programming and tool development.</li>
-        <li>🏛️ &nbsp; My work and research experiences include:
+        <li>I'm a Software Engineer / Computer Scientist</li>
+        <li>Most skilled in systems programming and tool development</li>
+        <li>My work and research experiences include:
           <ul>
             <li>🐧 &nbsp; FOSS development and maintenance</li>
             <li>⏳ &nbsp; Digital signature timestamping for PKI</li>
@@ -15,10 +15,10 @@
             <li>📹 &nbsp; Video compression algorithm optimization</li>
           </ul>
         </li>
-        <li>🔭 &nbsp; I also like Cybersecurity and Compilers.</li>
-        <li>📔 &nbsp; Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a>.</li>
+        <li>I also like Cybersecurity and Compilers</li>
+        <li>Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a></li>
         <li>
-          📫 &nbsp; Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email (preferred).
+          Want to reach me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email (preferred) *
         </li>
       </ul>
     </td>
@@ -31,7 +31,7 @@
 <hr/>
 
 <p>
-  * For security-sensitive communications, please encrypt your messages with my public PGP key.
+  * For security-sensitive communications, please encrypt your messages with my personal PGP key.
   <br/>
   Its fingerprint is <code>CBC54EF64ADF0F590095B06ABD4C56811EC6922D</code>, and it should be available at:
   <ul>
