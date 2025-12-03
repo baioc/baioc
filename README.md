@@ -4,7 +4,7 @@
   <tr>
     <td>
       <ul>
-        <li>I'm a Software Engineer, FOSS Contributor & Comp. Scientist</li>
+        <li>I'm a Software Engineer, FOSS Contributor & Computer Scientist</li>
         <li>Most skilled in systems programming and tool development</li>
         <li>My work and research experiences include:
           <ul>
@@ -18,7 +18,7 @@
         <li>I also like studying Cybersecurity and Compilers</li>
         <li>Feel free to check out my <a href='https://www.baioc.dev/resume/'>résumé</a> and <a href='https://www.baioc.dev/portfolio/'>portfolio</a></li>
         <li>
-          Want to reach me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email (preferred) *
+          Want to reach* me? Try <a href='https://linkedin.com/in/baioc'>LinkedIn</a> or email
         </li>
       </ul>
     </td>
